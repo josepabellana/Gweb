@@ -192,7 +192,7 @@ nav{
 	background-color: #FFFFFF;
 	transition: all ease 0.3s;
 }
-#services{
+#theses{
 	width:100%;
 height:100vh;
 box-sizing: border-box;
@@ -546,7 +546,7 @@ width: 100%;
 	.about-model img{
 		height:400px;
 	}
-	#services{
+	#theses{
 		height:auto;
 	}
 	.b-container{
